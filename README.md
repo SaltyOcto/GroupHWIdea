@@ -8,5 +8,4 @@ the meaning for the code.
 
 * Clone and try for yourself. Need an android device or install a emulator through Android Studio: https://developer.android.com/studio
 
-
-
+Need to incorporate google maps 
